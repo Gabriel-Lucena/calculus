@@ -1,0 +1,20 @@
+3
+
+Você também pode pensar que a variação é o mesmo valor que a tangente de um ângulo teta, em que Delta y é o cateto oposto e Delta x é o cateto adjacente
+
+Vamos considerar os pontos daquela função, substituindo os pontos e calculando, chegamos a variação, e esse número é constante, ou seja, não varia, independente de quais sejam os pontos
+
+Além de ser constante a variação também é visível na própria função, em uma função do primeiro grau a variação sempre será o a
+
+Essa função é chamada de função constante, nesta função a imagem será a constante, independente de qual seja o x, neste caso o y será sempre 3
+
+Calculando a variação chegamos no valor 0, podemos até pensar que na verdade esta é uma função do primeiro grau em que a=0 e b é igual a constante
+
+4
+
+Agora vamos pensar em uma função do segundo grau, e vamos tentar encontrar a variação dela da mesma maneira que conseguimos na de primeiro grau
+
+Se compararmos f de 0 com f de 1 podemos dizer que a variação é igual a 0, mas se compararmos f de 1 com f de 2 podemos também dizer que a variação é igual a 2
+
+Isto é somente a função de primeiro grau tem uma variação constante
+
